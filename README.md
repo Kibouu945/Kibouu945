@@ -1,6 +1,8 @@
-### Hi there 👋
+<h1 align="center">Heyy wasupp? I'm Rokib Tadjou 🤙<width="30px"></h1>
 
-Hi there 👋 i'm Rokib Tadjou , i'm a beninese 🇧🇯, and i'm currently learning web development in $france[ile_de_france] 🥖
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;Programmer;ML+Enthusiastic;Web+Designer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
+ 
+I'm a beninese , and i'm currently learning web development in ```$france[ile_de_france]``` 
 Recently graduated in programmation, i love discovering and learning new things!
 Feel free to check and see what i've done, thanks !
 
