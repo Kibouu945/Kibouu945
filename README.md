@@ -1,4 +1,4 @@
-### Hi there 👋 i'm Rokib Tadjou, i'm a beninese , and i'm learning web development in ```[ile_de_france]``` 
+### Hi there 👋 i'm Rokib Tadjou, i'm a beninese 🇧🇯, and i'm learning web development in ```[ile_de_france]``` 
 
 
 <p align="left"> 
