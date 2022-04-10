@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi there 👋 i'm Rokib Tadjou , i'm a beninese, and i'm currently learning web development in $france[ile_de_france] 🥖
+Hi there 👋 i'm Rokib Tadjou , i'm a beninese 🇧🇯, and i'm currently learning web development in $france[ile_de_france] 🥖
 Recently graduated in programmation, i love discovering and learning new things!
 Feel free to check and see what i've done, thanks !
 
